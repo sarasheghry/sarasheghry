@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sarasheghry.sarasheghry&left_color=hotpink&right_color=black"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sarasheghry.sarasheghry&left_color=hotpink&right_color=lightpink"  />
 </div>
 
 ###
