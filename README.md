@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sarasheghry.sarasheghry&left_color=hotpink&right_color=lightpink"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sarasheghry.sarasheghry&left_color=hotpink&right_color=black"  />
 </div>
 
 ###
@@ -30,7 +30,7 @@
 
 ###
 
-<h4 align="left">I'm Sara Shogry, a Software Engineering student at Karabük University from Syria living in Turkey, currently mastering Data Structures, Algorithms, and Advanced Java while exploring new tech stacks and solving logic puzzles in my free time.</h4>
+<h4 align="left">Aspiring Software Engineer | 2nd Year Student at Karabük University. Focused on mastering Java & C and exploring the world of Algorithms. Always curious and ready to build something new.</h4>
 
 ###
 
