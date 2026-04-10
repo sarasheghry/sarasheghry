@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">Aspiring Software Engineer | 2nd Year Student at Karabük University. Focused on mastering Java & C and exploring the world of Algorithms. Always curious and ready to build something new.</h3>
+<h3 align="left">Aspiring Software Engineer | 2nd Year Student at Karabük University. Focused on mastering Java & C and Python, exploring the world of Algorithms. Always curious and ready to build something new.</h3>
 
 ###
 
